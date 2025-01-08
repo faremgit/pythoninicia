@@ -1,0 +1,18 @@
+# Archivos del entorno virtual
+venv/
+__pycache__/
+
+# Archivos generados por la aplicación
+*.pyc
+*.log
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración específicos del usuario
+.vscode/
+.idea/
+
+# Archivos temporales o de caché
+*.tmp
+*.swp
